@@ -12,3 +12,5 @@ two-dimension: in-plane model
 
 three-dimension: space model
 
+blade with torsion: space model and consider the torsion of blade
+
